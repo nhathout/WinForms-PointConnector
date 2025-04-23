@@ -1,0 +1,10 @@
+C:\Users\hatho\source\repos\Lab2\Lab2\bin\Debug\Lab2.exe.config
+C:\Users\hatho\source\repos\Lab2\Lab2\bin\Debug\Lab2.exe
+C:\Users\hatho\source\repos\Lab2\Lab2\bin\Debug\Lab2.pdb
+C:\Users\hatho\source\repos\Lab2\Lab2\obj\Debug\Lab2.csproj.AssemblyReference.cache
+C:\Users\hatho\source\repos\Lab2\Lab2\obj\Debug\Lab2.Form1.resources
+C:\Users\hatho\source\repos\Lab2\Lab2\obj\Debug\Lab2.Properties.Resources.resources
+C:\Users\hatho\source\repos\Lab2\Lab2\obj\Debug\Lab2.csproj.GenerateResource.cache
+C:\Users\hatho\source\repos\Lab2\Lab2\obj\Debug\Lab2.csproj.CoreCompileInputs.cache
+C:\Users\hatho\source\repos\Lab2\Lab2\obj\Debug\Lab2.exe
+C:\Users\hatho\source\repos\Lab2\Lab2\obj\Debug\Lab2.pdb
